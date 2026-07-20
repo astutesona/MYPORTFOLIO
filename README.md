@@ -1,9 +1,9 @@
 # CodeAlpha_MYPORTFOLIO
-🌐 MyPortfolio Portfolio
+## MyPortfolio Portfolio
 
 This is my personal portfolio website that showcases my skills, projects, and resume with a clean, smooth, and fully responsive design. The portfolio is built using HTML, CSS, and JavaScript, focusing on performance and clarity.
 
-🚀 Features
+## Features
 
 ✔ Fully Responsive Design – Works perfectly on mobile, tablet, and desktop
 
@@ -17,7 +17,7 @@ This is my personal portfolio website that showcases my skills, projects, and re
 
 ✔ Contact Section – Includes all my social links for easy communication
 
-📂 Sections Included
+## Sections Included
 
 Navigation Bar
 
@@ -29,19 +29,19 @@ Resume Download
 
 Contact Me
 
-🛠️ Tech Stack
+## Tech Stack
 
 HTML5
 
 CSS3
 
 JavaScript
-📌 How to Use
+## How to Use
 
 You can fork this repository and customize it according to your needs.
 Open the index.html file in any browser to view the website.
 
-📞 Contact
+## Contact
 
 Feel free to connect with me here:
 
