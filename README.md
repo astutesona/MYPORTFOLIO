@@ -4,18 +4,17 @@
 This is my personal portfolio website that showcases my skills, projects, and resume with a clean, smooth, and fully responsive design. The portfolio is built using HTML, CSS, and JavaScript, focusing on performance and clarity.
 
 ## Features
+Fully Responsive Design – Works perfectly on mobile, tablet, and desktop
 
-✔ Fully Responsive Design – Works perfectly on mobile, tablet, and desktop
+Smooth Scrolling & Animations
 
-✔ Smooth Scrolling & Animations
+About Section – A short and formal introduction about me
 
-✔ About Section – A short and formal introduction about me
+Projects Section – Displays my work and featured projects
 
-✔ Projects Section – Displays my work and featured projects
+Resume Download – Direct link to download my resume
 
-✔ Resume Download – Direct link to download my resume
-
-✔ Contact Section – Includes all my social links for easy communication
+Contact Section – Includes all my social links for easy communication
 
 ## Sections Included
 
@@ -50,6 +49,6 @@ GitHub:(https://github.com/astutesona)
 LinkedIn:(https://www.linkedin.com/in/astutesona/)
 
 Email:astutesona@gmail.com
-⭐ Support
+## Support
 
-If you like this project, don’t forget to star the repository!
+If you like this project, don’t forget to star the repository.
